@@ -1,1 +1,4 @@
-Client for "FirstTCPServer"
+TCP client for sending data from a file.
+
+Called from the terminal with the file path, server ip address, and port in the format:
+<file_path> <x.x.x.x> <x> (example: ~/some_file.txt 192.168.0.1).
